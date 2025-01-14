@@ -5,7 +5,7 @@
 * [Amanda Kerr](https://github.com/amarkerr) : Team Lead and UI/UX Programmer Lead
 * [Andrew Morris](https://github.com/AndrewMorris22) : Programming Lead (AI, player, mechanics)
 * Dakota Morris : 
-* [Margo Quillig](https://github.com/NerdsyPotato) : Art Lead
+* [Margo Quilliq](https://github.com/NerdsyPotato) : Art Lead
 <br/>
 
 ## Module Two: Team Project Plan
