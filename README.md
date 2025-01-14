@@ -20,7 +20,7 @@
 <br/>
 
 #### Timeline
-* Refer to our Team Project - link to follow
+* Refer to our GitHub [Team Project](https://github.com/users/amarkerr/projects/2)
 
 <br/>
 
