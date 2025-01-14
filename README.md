@@ -27,6 +27,6 @@
 #### Team Communication
 * The team will be using a dedicated Discord server to chat frequently
 * Scheduled meetings are weekly: Wednesdays at 5:30 EST
-* Task assignnments will be markes in the Team Project matrix
+* Task assignnments will be marked in the Team Project matrix
   * Leads are currently responsible for assigning work
   * Team will volunteer as appropriate
