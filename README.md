@@ -4,7 +4,7 @@
 * [Brandi Kellner](https://github.com/BrandiKellner) : Level Design and World Builder Lead
 * [Amanda Kerr](https://github.com/amarkerr) : Team Lead and UI/UX Programmer Lead
 * [Andrew Morris](https://github.com/AndrewMorris22) : Programming Lead (AI, player, mechanics)
-* Dakota Morris : 
+* [Dakota Morris](https://github.com/DakotaM26) :
 * [Margo Quilliq](https://github.com/NerdsyPotato) : Art Lead
 <br/>
 
