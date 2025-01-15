@@ -4,14 +4,17 @@
 * [Brandi Kellner](https://github.com/BrandiKellner) : Level Design and World Builder Lead
 * [Amanda Kerr](https://github.com/amarkerr) : Team Lead and UI/UX Programmer Lead
 * [Andrew Morris](https://github.com/AndrewMorris22) : Programming Lead (AI, player, mechanics)
-* [Dakota Morris](https://github.com/DakotaM26) :
+* [Dakota Morris](https://github.com/DakotaM26) : Level Design and World Builder Lead
 * [Margo Quilliq](https://github.com/NerdsyPotato) : Art Lead
 <br/>
 
 ## Module Two: Team Project Plan
 #### Scenario
 * Third person
-* More details to come
+* Shooter/Platformer
+* 4 additional elements
+   * Stationary enemies
+   *   
 
 <br/>
 
