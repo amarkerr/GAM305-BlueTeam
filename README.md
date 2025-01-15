@@ -14,7 +14,10 @@
 * Shooter/Platformer
 * 4 additional elements
    * Stationary enemies
-   *   
+   * Obstical Moving
+   * Obstical Trap
+   * enemies boss
+   * General Object Pick-Up (Optional With Time)
 
 <br/>
 
