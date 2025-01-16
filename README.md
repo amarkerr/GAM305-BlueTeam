@@ -21,6 +21,8 @@
 
 <br/>
 
+#### Brainstorming
+
 #### Story
   Our story follows "Pila" whom is a goblin-like creature set in a dystopian world that is over-run by robots.<br/> 
   Almost all humans wiped out, Very few natural creatures/animals left, Pila is determined to take her world back.
@@ -31,7 +33,9 @@
 
 <br/>
 
-#### Team Communication
+#### Alpha & Beta Development Specifications(Determine)
+
+#### Team Communication(Method/Frequency & Reporting Method)
 * The team will be using a dedicated Discord server to chat frequently
 * Scheduled meetings are weekly: Wednesdays at 5:30 EST
   * These meetings will be recorded and uploaded to the discord, for later viewing
