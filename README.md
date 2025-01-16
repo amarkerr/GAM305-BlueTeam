@@ -38,4 +38,4 @@
 * Task assignnments will be marked in the Team Project matrix
   * Leads are currently responsible for assigning work
   * Team will volunteer as appropriate
-  * 
+  
