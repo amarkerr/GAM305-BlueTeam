@@ -45,6 +45,9 @@
 <br/>
 
 #### Alpha & Beta Development Specifications(Determine)
+The assets or elements that will be in place in the Alpha stage of our project are <br/>
+The assets or elements that will be in place in the Beta Stage of our project are <br/>
+The stages will be track in our project tracker on GitHub. <br/>
 
 #### Team Communication(Method/Frequency & Reporting Method)
 * The team will be using a dedicated Discord server to chat frequently
