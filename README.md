@@ -32,6 +32,8 @@
   * Set Goals
   * Assign Positions
 
+<br/>
+
 #### Story
   Our story follows "Pila" whom is a goblin-like creature set in a dystopian world that is over-run by robots.<br/> 
   Almost all humans wiped out, Very few natural creatures/animals left, Pila is determined to take her world back.
