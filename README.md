@@ -22,6 +22,15 @@
 <br/>
 
 #### Brainstorming
+  The brainstorming phased of our project began when we had the first couple of meeting in week two of this course.<br/>
+  Here is everything that we discussed in our meetings.<br/>
+  * Story 
+  * Characters 
+  * Enviroment
+  * Level
+  * Mechanics(Controls, Level Design, Character Design, Pick-Ups, Turret/Enemy Ai, Projectiles, Character Interactions)
+  * Set Goals
+  * Assign Positions
 
 #### Story
   Our story follows "Pila" whom is a goblin-like creature set in a dystopian world that is over-run by robots.<br/> 
