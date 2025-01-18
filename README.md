@@ -45,8 +45,8 @@
 <br/>
 
 #### Alpha & Beta Development Specifications(Determine)
-The assets or elements that will be in place in the Alpha stage of our project are character designs, level designs, controls, enemy mechanics, UI, UX, Audio and Text.  <br/>
-The assets or elements that will be in place in the Beta Stage of our project are bug fix, edits and Main Menu. <br/>
+The assets or elements that will be in place in the alpha stage of our project are character designs, level designs, controls, enemy mechanics, UI, UX, audio and text.  <br/>
+The assets or elements that will be in place in the beta Stage of our project are bug fix, edits and main menu. <br/>
 The stages will be track in our project tracker on GitHub. <br/>
 
 #### Team Communication(Method/Frequency & Reporting Method)
