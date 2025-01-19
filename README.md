@@ -9,51 +9,64 @@
 <br/>
 
 ## Module Two: Team Project Plan
-#### Scenario
-* Third person
-* Shooter/Platformer
+#### Chosen Scenario
+* [Third person](https://github.com/amarkerr/GAM305-BlueTeam/blob/main/GAM%20305%20Third-Person%20Scenario.pdf)
+* Shooter/Platformer style game
 * 4 additional elements
-   * Stationary enemies
-   * Obstical moving
-   * Obstical trap
-   * Enemies boss
-   * General Object Pick-Up (Optional if we have Time.)
+   1. Stationary enemies (enemty turrets with player tracking, turrets will have different dps and health)
+   2. Moving obstacles (moving platforms, pendulum, falling rocks)
+   3. Trap obstacles (trap floor, spike maze)
+   4. Boss enemy
+  
+The team will also attempt to complete general object pickup if the project timeline allows
 
 <br/>
 
 #### Brainstorming
-  The brainstorming phased of our project began when we had the first couple of meeting in week two of this course.<br/>
-  Here is everything that we discussed in our meetings.<br/>
-  * Story 
-  * Characters 
-  * Enviroment
-  * Level
-  * Mechanics(Controls, Level Design, Character Design, Pick-Ups, Turret/Enemy Ai, Projectiles, Character Interactions)
-  * Set Goals
-  * Assign Positions
+Brainstorming and meeting notes can be found on [our wiki](https://github.com/amarkerr/GAM305-BlueTeam/wiki)!
+
+Our team met twice over week 2 and discussed the following developmental topics:
+* Story and charcter
+* Enviroment
+* Level
+* Mechanics(controls, level design, character design, pick-ups, enemy design and AI, projectiles, character interactions)
+
+Additionally, the team discussed roles suited to skillsets and interestests and began creation of their project and tracker while keeping in frequent communication over the their Discord server. 
 
 <br/>
 
 #### Story
-  Our story follows "Pila" whom is a goblin-like creature set in a dystopian world that is over-run by robots.<br/> 
-  Almost all humans wiped out, Very few natural creatures/animals left, Pila is determined to take her world back.
+Our story follows Pila, a goblin-like creature living in a dystopian world overrun by robots. With almost all humans wiped out and very few natural creatures left, Pila is determined to take her world back by collecting world seeds and fighting back.
+
+![alt text](https://raw.githubusercontent.com/amarkerr/GAM305-BlueTeam/refs/heads/main/Pila.png "Image of character: Pila")
+
+  
+
 <br/>
 
-#### Timeline
-* Refer to our GitHub [Team Project](https://github.com/users/amarkerr/projects/2)
+#### Tentative Timeline
+* Refer to our GitHub [Team Project tracker](https://github.com/users/amarkerr/projects/2)!
+* Alpha submission on: 02/02/2025
+  * Character design
+  * Level design
+  * controls
+  * enemy AI and mechanics
+* Beta submission on: 02/09/2025
+  * Audio
+  * Text
+  * Menus
+  * QA and bug fixes 
+* Final submission: 02/23/2025
+  * visuals and textures  
 
 <br/>
 
-#### Alpha & Beta Development Specifications(Determine)
-The assets or elements that will be in place in the alpha stage of our project are character designs, level designs, controls, enemy mechanics, UI, UX, audio and text.  <br/>
-The assets or elements that will be in place in the beta Stage of our project are bug fix, edits and main menu. <br/>
-The stages will be track in our project tracker on GitHub. <br/>
 
-#### Team Communication(Method/Frequency & Reporting Method)
+#### Team Communication
 * The team will be using a dedicated Discord server to chat frequently
 * Scheduled meetings are weekly: Wednesdays at 5:30 EST
-  * These meetings will be recorded and uploaded to the discord, for later viewing
+  * These meetings will be recorded and shared to the Discord server for later viewing
 * Task assignnments will be marked in the Team Project matrix
-  * Leads are currently responsible for assigning work
+  * Leads are currently responsible for assigning work and ensuring their department tasks are completed
   * Team will volunteer as appropriate
   
