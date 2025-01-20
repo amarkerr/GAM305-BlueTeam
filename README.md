@@ -8,6 +8,8 @@
 * [Margo Quilliq](https://github.com/NerdsyPotato) : Art Lead
 <br/>
 
+***
+
 ## Module Two: Team Project Plan
 #### Chosen Scenario
 * [Third person](https://github.com/amarkerr/GAM305-BlueTeam/blob/main/GAM%20305%20Third-Person%20Scenario.pdf)
@@ -70,3 +72,22 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
   * Leads are currently responsible for assigning work and ensuring their department tasks are completed
   * Team will volunteer as appropriate
   
+<br/>
+
+***
+## Module Three: QA and Testing Plan
+<br/>
+
+#### Test Process and Documentation Plan
+*
+
+<br/>
+
+#### Test Schedule
+*
+
+<br/>
+
+#### Test Checklist
+*
+<br/>
