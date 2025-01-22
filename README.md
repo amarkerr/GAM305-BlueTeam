@@ -79,16 +79,16 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 <br/>
 
 #### Test Process and Documentation Plan
-* Objects : We will test objects by 
-* Levels :
-* Gameplay :
-* Play Test :
-* Demo :
-* Code Release :
-* How Will We Update The Test Plan :
-* How Will We Report Bugs :
-* How Will We Track Bug Changes :
+* How Will We Test?
 
+* What Items Will Be Tested?
+
+* How Would We Update Our Test Plan?
+
+* How Will Bugs Be Reported?
+
+* How Will The Bugs and Their Changes be Tracked?
+ 
 <br/>
 
 #### Test Schedule
