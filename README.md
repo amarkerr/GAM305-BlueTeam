@@ -58,7 +58,7 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
   * Text
   * Menus
   * QA and bug fixes 
-* Final submission: 02/23/2025
+* Final submission: 02/16/2025
   * visuals and textures  
 
 <br/>
