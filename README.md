@@ -80,22 +80,24 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 
 #### Test Process and Documentation Plan
 * How Will We Test?
+  We will perform hands- on testing and evalution via user testing of all objects, levels, and gameplay.
+  
+* Our test plan can be found here.
+  [Team Project tracker](https://github.com/users/amarkerr/projects/3)
+  
+* Our bug tracker can be found here.
+  [Bug Report tracker](https://github.com/users/amarkerr/projects/4)
 
-* What Items Will Be Tested?
-
-* How Would We Update Our Test Plan?
-
-* How Will Bugs Be Reported?
-
-* How Will The Bugs and Their Changes be Tracked?
  
 <br/>
 
 #### Test Schedule
-*
+ * Play Test: 01/31/2025
+ * Demo Test: 02/07/2025
+ * Code release: 02/14/2025 
 
 <br/>
 
 #### Test Checklist
-*
+* Our test checklist will mirror objects on our project tracker.
 <br/>
