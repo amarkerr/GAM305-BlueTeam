@@ -58,7 +58,7 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
   * Text
   * Menus
   * QA and bug fixes 
-* Final submission: 02/23/2025
+* Final submission: 02/16/2025
   * visuals and textures  
 
 <br/>
@@ -79,8 +79,16 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 <br/>
 
 #### Test Process and Documentation Plan
-*
+* How Will We Test?
 
+* What Items Will Be Tested?
+
+* How Would We Update Our Test Plan?
+
+* How Will Bugs Be Reported?
+
+* How Will The Bugs and Their Changes be Tracked?
+ 
 <br/>
 
 #### Test Schedule
