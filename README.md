@@ -79,25 +79,28 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 <br/>
 
 #### Test Process and Documentation Plan
-* How Will We Test?
-  We will perform hands- on testing and evalution via user testing of all objects, levels, and gameplay.
-  
-* Our test plan can be found here.
-  [Team Project tracker](https://github.com/users/amarkerr/projects/3)
-  
-* Our bug tracker can be found here.
-  [Bug Report tracker](https://github.com/users/amarkerr/projects/4)
+* The team determined it would be best to use a hands-on processs to test and evaluate. This will mimic playtesting through all the testing processes. All objects needing to be tested will be on our Test Tracker. All bugs found will be reported and monitored via our Bug Tracker.
+  * Our test plan and checklist: [Test Tracker](https://github.com/users/amarkerr/projects/3) 
+  * Our bug report tracker: [Bug Report tracker](https://github.com/users/amarkerr/projects/4)
 
  
 <br/>
 
 #### Test Schedule
- * Play Test: 01/31/2025
- * Demo Test: 02/07/2025
- * Code release: 02/14/2025 
-
+* Our tentative schedule for main test phases is as follows (this aligns with the Friday before the Sunday phase release):
+  * Play Test: 01/31/2025
+  * Demo Test: 02/07/2025
+  * Code release: 02/14/2025 
 <br/>
 
-#### Test Checklist
-* Our test checklist will mirror objects on our project tracker.
+
+***
+## Module Four: Team Reflection
 <br/>
+
+* What parts of the testing process did the team perceive to go well?
+* How were bugs identified and corrected?
+* In terms of the QA and testing process, what would you do differently to improve the process?
+* What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+* Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+* How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
