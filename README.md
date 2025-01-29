@@ -99,18 +99,18 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 <br/>
 
 * What parts of the testing process did the team perceive to go well?
-  Setting some time to test mechanics and our abilities to solve problems.
+  * Setting some time to test mechanics and our abilities to solve problems.
 * How were bugs identified and corrected?
-  We play test the game or test anything we make and if we encounter a bug, we put it in the [Bug Report tracker](https://github.com/users/amarkerr/projects/4) and then we fix it.
+  * We play test the game or test anything we make and if we encounter a bug, we put it in the [Bug Report tracker](https://github.com/users/amarkerr/projects/4) and then we fix it.
 * In terms of the QA and testing process, what would you do differently to improve the process?
   
 * What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
-  Discord because it allows us to communicate both on and off call, create polls, and is something we can use on our computer and phones.
-  The Project Tracker
-  The recording of meetings have been great because if someone meets a metting or forgets something, we can always go back to the meeting by the video.
+  * Discord because it allows us to communicate both on and off call, create polls, and is something we can use on our computer and phones.
+  * The Project Tracker becuase it allows us to take tasks that we would want to do and communicate on the statuss of some aspects of the game.
+  * The recording of meetings have been great because if someone meets a metting or forgets something, we can always go back to the meeting by the video.
 * Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-  The wiki hasn't been that helpful, it's not bad but we don't get much out of it because we can look back on discord or watch a video that we recorded.
+  * The wiki hasn't been that helpful, it's not bad but we don't get much out of it because we can look back on discord or watch a video that we recorded.
 * What tools would we have found useful or beneficial? 
-  Any git resources because a couple of git related conflicts that a resource like that could help us understand how to resolve the conflict.
+  * Any git resources because a couple of git related conflicts that a resource like that could help us understand how to resolve the conflict.
 * How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
   
