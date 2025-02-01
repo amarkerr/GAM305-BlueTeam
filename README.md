@@ -103,7 +103,7 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 * How were bugs identified and corrected?
   * We play test the game or test anything we make and if we encounter a bug, we put it in the [Bug Report tracker](https://github.com/users/amarkerr/projects/4) and then we fix it.
 * In terms of the QA and testing process, what would you do differently to improve the process?
-  
+  * Having eariler deadlines so we can dedicate time to test and fix the bugs within the alpha. Not to mention qith QA, looking at something from a differant angle can help with getting a better look to make any changes to anything we work on.
 * What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
   * Discord because it allows us to communicate both on and off call, create polls, and is something we can use on our computer and phones.
   * The Project Tracker becuase it allows us to take tasks that we would want to do and communicate on the statuss of some aspects of the game.
@@ -112,5 +112,5 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
   * The wiki hasn't been that helpful, it's not bad but we don't get much out of it because we can look back on discord or watch a video that we recorded.
 * What tools would we have found useful or beneficial? 
   * Any git resources because a couple of git related conflicts that a resource like that could help us understand how to resolve the conflict.
-* How did the team approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
-  
+* How did the team's approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+  * The techniqes we chose was the industry standard, we just chose to do it within Github for convenience. 
