@@ -135,9 +135,9 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 
 #### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
 * The menu was percieved to go well. The falling platform. Dropping from map. obvious win/loose scenarios (direction).
-####What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+#### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
 * We percieved there would be smaller bugs to fix. 
-####How were the previous evaluations integrated into this latest stage?
+#### How were the previous evaluations integrated into this latest stage?
 * creating the box, fixing the launch on the menu, fixed the falling platforms. menu being fixed shows game direction
 #### What would you do differently to improve the collaboration or development process?
 * staying focused. trying to allow additional time for emergencies? = buffer room
