@@ -98,19 +98,50 @@ Our story follows Pila, a goblin-like creature living in a dystopian world overr
 ## Module Four: Team Reflection
 <br/>
 
-* What parts of the testing process did the team perceive to go well?
-  * Setting some time to test mechanics and our abilities to solve problems.
-* How were bugs identified and corrected?
+### What parts of the testing process did the team perceive to go well?
+* Setting some time to test mechanics and our abilities to solve problems.
+<br/>
+
+### How were bugs identified and corrected?
   * We play test the game or test anything we make and if we encounter a bug, we put it in the [Bug Report tracker](https://github.com/users/amarkerr/projects/4) and then we fix it.
-* In terms of the QA and testing process, what would you do differently to improve the process?
-  * Having eariler deadlines so we can dedicate time to test and fix the bugs within the alpha. Not to mention qith QA, looking at something from a differant angle can help with getting a better look to make any changes to anything we work on.
-* What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
-  * Discord because it allows us to communicate both on and off call, create polls, and is something we can use on our computer and phones.
-  * The Project Tracker becuase it allows us to take tasks that we would want to do and communicate on the statuss of some aspects of the game.
-  * The recording of meetings have been great because if someone meets a metting or forgets something, we can always go back to the meeting by the video.
-* Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
-  * The wiki hasn't been that helpful, it's not bad but we don't get much out of it because we can look back on discord or watch a video that we recorded.
-* What tools would we have found useful or beneficial? 
-  * Any git resources because a couple of git related conflicts that a resource like that could help us understand how to resolve the conflict.
-* How did the team's approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
-  * The techniqes we chose was the industry standard, we just chose to do it within Github for convenience. 
+<br/>
+
+### In terms of the QA and testing process, what would you do differently to improve the process?
+* Having eariler deadlines so we can dedicate time to test and fix the bugs within the alpha. Not to mention qith QA, looking at something from a differant angle can help with getting a better look to make any changes to anything we work on.
+<br/>
+
+### What tools (chosen in Module Two) did you find successful in the development of your Alpha project? Why?
+* Discord because it allows us to communicate both on and off call, create polls, and is something we can use on our computer and phones.
+* The Project Tracker becuase it allows us to take tasks that we would want to do and communicate on the statuss of some aspects of the game.
+* The recording of meetings have been great because if someone meets a metting or forgets something, we can always go back to the meeting by the video.
+<br/>
+
+### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+* The wiki hasn't been that helpful, it's not bad but we don't get much out of it because we can look back on discord or watch a video that we recorded.
+<br/>
+
+### What tools would we have found useful or beneficial? 
+* Any git resources because a couple of git related conflicts that a resource like that could help us understand how to resolve the conflict.
+<br/>
+
+### How did the team's approach to the initial analysis of the game design document contribute to the decision to use these tools and techniques?
+* The techniqes we chose was the industry standard, we just chose to do it within Github for convenience.
+<br/>
+
+
+***
+## Module Five: Team Reflection
+<br/>
+
+#### What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+* The menu was percieved to go well. The falling platform. Dropping from map. obvious win/loose scenarios (direction).
+#### What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+* We percieved there would be smaller bugs to fix. 
+#### How were the previous evaluations integrated into this latest stage?
+* creating the box, fixing the launch on the menu, fixed the falling platforms. menu being fixed shows game direction
+#### What would you do differently to improve the collaboration or development process?
+* staying focused. trying to allow additional time for emergencies? = buffer room
+#### Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+* placing package in repository was not a success, better guidelines. 
+#### Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
+ * [Team Project tracker](https://github.com/users/amarkerr/projects/2)
